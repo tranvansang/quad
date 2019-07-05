@@ -6,4 +6,4 @@ Very simple ajax
 - `node server.js`
 - Open web browser at `localhost:8085`
 
-- Check live demo at [https://transang.me:8085](https://transang.me:8085)
+- Check live demo at [https://quad.transang.me](https://quad.transang.me)
